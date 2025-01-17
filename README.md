@@ -1,0 +1,1 @@
+I made a case 600 model in grasshopper environment. Not all the Eplus idd object are available in Openstudio, so do in Ladybug-Grasshopper. This model may need to further fine tune. However, it works fine and gives us basic working of Case 600.
